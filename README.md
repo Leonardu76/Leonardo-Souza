@@ -12,7 +12,7 @@ Bem vindo!!
 
 
 
-<img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
+<img style="margin: 0 auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ-NMt2VLwnzK1ooSQ59qdZt2snJFn58Kmll9Wi6JBU3cVqcLZJVMxcw7QiPh43-he4Hw&usqp=CAU" height="200">
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-oliveira-3b0446176/)
