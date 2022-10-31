@@ -9,9 +9,9 @@ Bem vindo!!
 <img style="margin: 0 auto" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" height="200">
 
 
-- 👷 Estagiário de desenvolvimento web PHP.
+- 👷 Estagiário de Desenvolvimento Web PHP.
 
-- 👨‍🏫 Estudante de análise e desenvolvimento de sistemas.
+- 👨‍🏫 Estudante de Análise e Desenvolvimento de Sistemas.
 
 
 
