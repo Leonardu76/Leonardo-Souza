@@ -1,3 +1,1 @@
-# Leonardo-Souza
-About me
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=leonardu76&show_icons=true)
