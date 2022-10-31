@@ -1,7 +1,7 @@
 Bem vindo!!
 
 
-[![leonardu76 GitHub stats](https://github-readme-stats.vercel.app/api?username=leoanrdu76&show_icons=true&theme=radical)](https://github.com/leonardu76/github-readme-stats)
+[![leonardu76 GitHub stats](https://github-readme-stats.vercel.app/api?username=leoanrdu76&show_icons=true&theme=dracula)](https://github.com/leonardu76/github-readme-stats)
 
 
 
