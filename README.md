@@ -16,4 +16,4 @@ Bem vindo!!
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-oliveira-3b0446176/)
-[![Porfolio](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)]([https://devinvestidor.com.br/](https://leonardosouza.herokuapp.com/))
+[![Porfolio](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](https://leonardosouza.herokuapp.com/)
