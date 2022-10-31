@@ -7,6 +7,7 @@ Bem vindo!!
 
 ![leonardu76 GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardu76&show_icons=true&theme=dracula)
 
+<img style="margin: 0 auto" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" height="200">
 
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardu76&layout=compact)](https://github.com/leonardu76/github-readme-stats)
@@ -16,7 +17,6 @@ Bem vindo!!
 
 
 
-<img style="margin: 0 auto" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" height="200">
 
 
 
