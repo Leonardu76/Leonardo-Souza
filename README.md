@@ -9,7 +9,7 @@ Bem vindo!!
 <img style="margin: 0 auto" src="https://media.tenor.com/Mtt_u2FtYBkAAAAC/coffee-code.gif" height="200">
 
 
-- 👷 Estagiário de Desenvolvimento Web PHP.
+- 👷 Desenvolvedor Web Jr PHP.
 
 - 👨‍🏫 Estudante de Análise e Desenvolvimento de Sistemas.
 
