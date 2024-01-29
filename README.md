@@ -4,14 +4,14 @@ Bem vindo!!
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-oliveira-3b0446176/)
-[![Porfolio](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](https://shre.ink/leonardo-souza)
+[![Porfolio](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)]([https://shre.ink/leonardo-souza](https://leonardosouza.netlify.app/))
 
 <img style="margin: 0 auto" src="https://media.tenor.com/Mtt_u2FtYBkAAAAC/coffee-code.gif" height="200">
 
 
-- 👷 Desenvolvedor Web Jr PHP.
+- 👷 Desenvolvedor Web Fullstack PHP/Laravel Vue.js.
 
-- 👨‍🏫 Estudante de Análise e Desenvolvimento de Sistemas.
+- 👨‍🏫 Formado em Análise e Desenvolvimento de Sistemas.
 
 
 
