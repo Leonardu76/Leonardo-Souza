@@ -4,6 +4,8 @@ Bem vindo!!
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonardo-oliveira-3b0446176/)
+[<img src="https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress" />](https://leonardoliveiras.com.br/)
+
 [![Porfolio](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)]((https://leonardoliveiras.com.br/))
 
 <img style="margin: 0 auto" src="https://media.tenor.com/Mtt_u2FtYBkAAAAC/coffee-code.gif" height="200">
